@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 * I am currently working with React JS 	📚 
 
-* I am Interested and currently Learning Typescript 😃
+* I am Interested and currently Learning Typescript and Data Structure & Algorithm 😃
 
 * I'm looking to work with others on front end development projects. ☀️☀️☀️
 
