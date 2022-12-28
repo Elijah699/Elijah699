@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi , I'm Elijah 👋👋
 
-## A frontend Developer 💻 
+## A Frontend Developer 💻 
 
 * 😄 Pronouns: He/Him
 
