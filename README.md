@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi , I'm Elijah 👋👋
+# Hi , I'm Elijah or devCreed👋👋
 
-## A Frontend Developer 💻 
+## A Frontend Developer and Open Source Enthusiast and Preacher 💻 
 
 * 😄 Pronouns: He/Him
 
 * I am open to Frontend Roles 👐👐
 
-* I am currently working with React JS 	📚 
+* I am currently working with React JS, NextJS amidst other technologies 	📚 
 
-* I am Interested and currently Learning Typescript and Data Structure & Algorithm 😃
+* I'm currently Learning Typescript and Data Structure & Algorithm 😃
 
 * I'm looking to work with others on front end development projects. ☀️☀️☀️
 
