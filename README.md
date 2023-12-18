@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 * I am open to Frontend Roles 👐👐
 
-* I am currently working with React JS, NextJS amidst other technologies 	📚 
+* I am proefficient with Typescript and javascript amidst other technologies 	📚 
 
-* I'm currently Learning Typescript and Data Structure & Algorithm 😃
+* I'm currently learning Data Structure & Algorithm 😃
 
 * I'm looking to work with others on front end development projects. ☀️☀️☀️
 
