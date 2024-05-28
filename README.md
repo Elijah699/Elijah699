@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi , I'm Elijah or devCreed👋👋
 
-## A Frontend Web && Mobile Engineer, Open Source Enthusiast and Preacher 💻 
+## A Frontend Web & Mobile Engineer, Open Source Enthusiast and Preacher 💻 
 
 * 😄 Pronouns: He/Him
 
