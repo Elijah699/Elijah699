@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi , I'm Elijah or devCreed👋👋
 
-## A Frontend Developer, Open Source Enthusiast and Preacher 💻 
+## A Frontend Web && Mobile Engineer, Open Source Enthusiast and Preacher 💻 
 
 * 😄 Pronouns: He/Him
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * I'm currently learning Data Structure & Algorithm 😃
 
-* I'm looking to work with others on front end development projects. ☀️☀️☀️
+* I'm looking to work on exciting open source projects. ☀️☀️☀️
 
 * You can Mail me [edunelijah18@gmail.com](edunelijah18@gmail.com) 📧 
 
