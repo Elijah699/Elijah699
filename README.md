@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 😄 Pronouns: He/Him
 
-* I am open to Frontend Roles 👐👐
+* I am open to Frontend & Web3 Roles 👐👐
 
 * I am proefficient with Typescript and javascript amidst other technologies 	📚 
 
